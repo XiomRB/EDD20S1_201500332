@@ -6,7 +6,7 @@ crear, nombrar, transferir, transferir_dueño, contar,contar_dueño
 ### Descripcion
 Moneda virtual, con la cual se pueden hacer transacciones
 
-###Operacion
+### Operacion
 
 ##### crear()devuelve()
 Crea una moneda y la une a la lista
@@ -17,7 +17,7 @@ Le da nombres a las monedas de la lista
 ##### contar()devuelve()
 Devuelve el total de monedas creadas
 
-##### contar_dueño(int d)devuelve()
+##### contar_dueño(int d)devuelve(int cantidad)
 Devuelve el total de monedas de un dueño
 
 ##### transferir()devuelve()
